@@ -1,0 +1,58 @@
+table { 
+    border-collapse: collapse; 
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+h1 {
+    margin: auto;
+    text-align: center;
+    color: #131722;
+    font-family: sans-serif;
+    margin-top: 100px;
+}
+
+th, td { 
+    padding: 0.25em 0.5em; 
+    border: 1px solid #dfe3eb; 
+    margin: auto;
+    font-family: sans-serif;
+    min-width: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 13px;
+}
+
+td {
+    color: #ffffff;
+}
+
+.hover_tr {
+    background-color: #dfe3eb;
+}
+
+.hover_th {
+    background-color: #dfe3eb;
+}
+
+img {
+    width: 20px;
+    margin: auto 6px auto auto;
+}
+
+
+div {
+    display: inline-block;
+    margin: auto;
+}
+
+.coin {
+    display: flex;  
+    flex-direction: row;
+    align-items: center;
+}
+
+.number {
+    margin: auto;
+}

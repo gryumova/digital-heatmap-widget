@@ -1,2 +1,2 @@
 # digital-heatmap-widget
-Digital Heatmap Widget 
+<!-- ![alt text](figures/img.png) -->
