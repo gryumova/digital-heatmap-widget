@@ -10,7 +10,7 @@
 To start a server that generates random values for the currency ratio, run the following line:
 
 ```
-    python ./server/server.py
+python ./server/server.py
 ```
 
 # Run web-server 
@@ -18,5 +18,5 @@ To start a server that generates random values for the currency ratio, run the f
 To start a server that shows heatmap:
 
 ```
-    node ./client.js
+node ./client.js
 ```
